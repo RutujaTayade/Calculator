@@ -15,7 +15,7 @@ This “Pokie Calculator” performs basic arithmetic operations while offering 
 
 **🔹 Features**
 
-✅ Cute and modern UI (Pokie-style)  
+✅ Cute and modern UI 
 ✅ Perform basic arithmetic operations (+, −, ×, ÷)  
 ✅ Real-time result display  
 ✅ Clear & delete functions   
@@ -34,6 +34,6 @@ This “Pokie Calculator” performs basic arithmetic operations while offering 
 
 ### 🔗 Project Links
 
-🌍 **Live Site:** [https://rutujatayade.github.io/Calculator](https://rutujatayade.github.io/Calculator)  
+🌍 **Live Site:** [https://rutujatayade.github.io/Calculator/]
 📂 **GitHub Repository:** [https://github.com/RutujaTayade/Calculator](https://github.com/RutujaTayade/Calculator)  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/rutuja-tayade-15a680357/]
